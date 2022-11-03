@@ -20,7 +20,6 @@ int addNumbers(int number1, int number2)
     return sum;
 }
 
-
 int main() {
 
     greet();
